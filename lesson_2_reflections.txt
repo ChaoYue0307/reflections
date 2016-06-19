@@ -6,3 +6,6 @@ Each time remember to add and commit
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Different versions to be developed and distributed further
+
+How do the diagrams help you visualize the branch structure?
+More clearly than by using only text
