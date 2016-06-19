@@ -1,3 +1,5 @@
 a .git hidden folder is created as repository, this is used for further committing the files included to do version control
 
 Preparation stage
+
+For testing
