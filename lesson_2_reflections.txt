@@ -3,3 +3,6 @@ a .git hidden folder is created as repository, this is used for further committi
 Preparation stage
 
 Each time remember to add and commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Different versions to be developed and distributed further
