@@ -1,0 +1,12 @@
+Increase the efficience to find the bug by checking the most worth-suspicious lines of codes.
+
+Pros: Save only meaningful changes
+Cons: May miss important changes
+
+Catering to the user needs on large project development and files management
+
+To see a detailed modification
+
+Everything is recorded.
+
+My project
