@@ -2,3 +2,6 @@ Create a new file in order to keep track of reflections of lesson 3
 
 When would you want to use a remote repository rather than keeping all your work local?
 Cross different physical locations
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Context
